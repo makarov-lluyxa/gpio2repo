@@ -12,3 +12,4 @@ while True:
     duty += 1.0
     if duty > 100.0:
         duty = 0.0
+        
